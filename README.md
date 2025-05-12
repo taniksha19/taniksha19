@@ -1,7 +1,7 @@
-👋 Hi, I’m Taniksha Datar, a Master’s student in Computer Science at Northeastern University.
-💡 I’m passionate about building intelligent systems and solving real-world problems with AI, NLP, and data science.
-🔭 Recent work includes a Stack Overflow auto-tagging system (HMMs vs Transformers), a mental health chatbot using LangChain + RAG, and a full-stack freelancer-client platform.
-💻 I code in Python, Java, C++, JavaScript, and work with tools like SQL, AWS, Docker, and HuggingFace.
+👋 Hi, I’m Taniksha Datar, a Master’s student in Computer Science at Northeastern University.<br>
+💡 I’m passionate about building intelligent systems and solving real-world problems with AI, NLP, and data science.<br>
+🔭 Recent work includes a Stack Overflow auto-tagging system (HMMs vs Transformers), a mental health chatbot using LangChain + RAG, and a full-stack freelancer-client platform.<br>
+💻 I code in Python, Java, C++, JavaScript, and work with tools like SQL, AWS, Docker, and HuggingFace.<br>
 
 
 ## 🌐 Socials:
